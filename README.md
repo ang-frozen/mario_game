@@ -1,4 +1,5 @@
 ## SUPER MARIO
+![image](https://github.com/user-attachments/assets/a50e849f-4f36-4900-a2d4-fa316c352084)
 
 Install
 
